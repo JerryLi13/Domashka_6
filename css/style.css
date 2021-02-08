@@ -273,3 +273,24 @@ body {
 	margin: 0px -23px 0px 0px;
 	height: 300px;
 }
+
+
+.main__float {
+	max-width: 500px;
+	margin: 0 auto;
+}
+.main__float p {
+	text-align: justify;
+	font-size: 18px;
+	color: blueviolet;
+	text-shadow: 1px 1px 1px black;
+	padding: 15px;
+}
+
+.main__float-img {
+	float: left;
+	margin: 15px;
+}
+.item {
+	clear: both;
+}
